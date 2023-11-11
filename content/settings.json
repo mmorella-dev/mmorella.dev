@@ -16,7 +16,10 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "mmorella.dev" },
+    "logo": { 
+      "text": "mmorella.dev",
+      "image": "./images/favicon.svg"
+    },
     "navigation": {
       "header": [
         { "label": "Github", "url": "https://github.com/mmorella-dev" }
