@@ -1,60 +1,44 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
-      "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
-      }
+      "label": "TypeScript",
+      "svg": "/devicons/ts.svg"
     },
     {
-      "label": "Content via Markdown",
-      "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
-      }
+      "label": "React",
+      "svg": "/devicons/react.svg"
     },
     {
-      "label": "Responsive Design",
-      "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
-      }
+      "label": "Node.js",
+      "svg": "/devicons/node.svg"
     },
     {
-      "label": "Medium Integration",
-      "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
+      "label": "C++",
+      "svg": "/devicons/cpp.svg"
     },
     {
-      "label": "Animations",
-      "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
-      }
+      "label": "Python",
+      "svg": "/devicons/python.svg"
     },
     {
-      "label": "PWA (Offline Support)",
-      "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
+      "label": "Git",
+      "svg": "/devicons/git.svg"
     },
     {
-      "label": "Modern Tech-Stack",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
+      "label": "GitHub Actions",
+      "svg": "/devicons/github.svg"
     },
     {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
-      }
+      "label": "Java",
+      "svg": "/devicons/java.svg"
+    },
+    {
+      "label": "PHP",
+      "svg": "/devicons/php.svg"
+    },
+    {
+      "label": "MySQL",
+      "svg": "/devicons/mysql.svg"
     }
   ],
   "button": {
