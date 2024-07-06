@@ -16,9 +16,9 @@ export default function IndexPage() {
       <Seo title="Home" useTitleTemplate={true} />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
+        <ProjectsSection sectionId="projects" heading="Projects" />
         <InterestsSection sectionId="skills" heading="Skills" />
         {/* <AboutSection sectionId="about" heading="About" /> */}
-        {/* <ProjectsSection sectionId="projects" heading="Projects" /> */}
         <ContactSection sectionId="contact" heading="Contact" />
       </Page>
     </>

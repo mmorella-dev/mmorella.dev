@@ -30,8 +30,7 @@
         "url": "https://resume.mmorella.dev/"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "© 2024 mmorella.dev" }
       ]
     },
     "featureToggles": {

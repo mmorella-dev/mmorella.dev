@@ -1,7 +1,7 @@
 {
   "intro": "Hi, I'm Mae!",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/heroPhoto.png",
     "alt": "My Photo"
   },
   "image": {
@@ -10,11 +10,11 @@
   },
   "title": "",
   "subtitle": {
-    "prefix": "I write ",
-    "highlight": "awesome",
-    "suffix": " code."
+    "prefix": "I am a ",
+    "highlight": "software developer",
+    "suffix": " for hire!"
   },
-  "description": "B.S. Computer Science. Minor in Software Engineering & Creative Writing",
+  "description": "B.Sc. Computer Science. Minor in Software Engineering & Creative Writing",
   "socialProfiles": {
     "from": ["LinkedIn", "Twitter", "Github", "Mail"],
     "showIcons": true
